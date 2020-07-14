@@ -75,7 +75,6 @@ const CartItem =(props) =>{
 
             </div>
 
-
         </div>
 
         )
